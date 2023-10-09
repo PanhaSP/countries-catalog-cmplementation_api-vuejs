@@ -1,4 +1,4 @@
-# Countries Catalog Implementation
+# countries-catalog-cmplementation_api-vuejs
 
 This project will show the list of countries around the world. 
 
@@ -29,24 +29,18 @@ This project will show the list of countries around the world.
 
 Base API Url: https://restcountries.com/v3.1
 
-#### Get all items
-
-```
-  GET /all
-```
-
 ### Run VueJS app on Localhost
 
 Clone the project
 
 ```bash
-  git clone https://github.com/ChantyTUN/api_countries_vuejs_display.git
+  git clone https://github.com/PanhaSP/countries-catalog-cmplementation_api-vuejs.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd api_countries_vuejs_display
+  cd countries-catalog-cmplementation_api-vuejs
 ```
 
 Install dependencies
@@ -60,12 +54,3 @@ Start the server
 ```bash
   npm run dev
 ```
-
-
-## Author
-
-> Chanty TUN
-> 
-> Contact: cambodia4khmeru@gmail.com | tunchantyofficial@gmail.com
-> 
-> Youtube Demo Project: https://youtu.be/ZGWyB0BILg4?si=Dpcc7qK7pm5KrZwt
